@@ -1,5 +1,5 @@
  debug_log.md
-# Author: [Madison Distefano]
+# Author: Madison Distefano
 
 ## Bug 1
 Error type: _typo in the dictionary key 'amout' instead of 'amount'
@@ -33,4 +33,4 @@ Can I explain every fixed line? Yes / No
 yes
 ## What I learned
 [2-3 sentences]
-I learned how to pay attention to eevry small detail because even somethign as a mispelling could cause an error. In addition I learned how important quotations and how they can change the meaning of something.
+I learned how to pay attention to every small detail because even something as a mispelling could cause an error. In addition I learned how important quotations and how they can change the meaning of something.
